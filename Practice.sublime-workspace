@@ -1,0 +1,1274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ini",
+				"initBox"
+			],
+			[
+				"stac",
+				"stack_par"
+			],
+			[
+				"sta",
+				"stack_par"
+			],
+			[
+				"st",
+				"stack_par"
+			],
+			[
+				"stack",
+				"stack_len"
+			],
+			[
+				"pr",
+				"properties"
+			],
+			[
+				"prin",
+				"printBox"
+			],
+			[
+				"cou",
+				"count_num"
+			],
+			[
+				"mp",
+				"mp_key"
+			],
+			[
+				"pu",
+				"put_in_right"
+			],
+			[
+				"put",
+				"put_in_left"
+			],
+			[
+				"ma",
+				"max_sum"
+			],
+			[
+				"max",
+				"maxSum"
+			],
+			[
+				"s",
+				"sign"
+			],
+			[
+				"sum",
+				"sum_twos"
+			],
+			[
+				"h",
+				"happiness"
+			],
+			[
+				"l",
+				"ldist"
+			],
+			[
+				"ha",
+				"happiness"
+			],
+			[
+				"ra",
+				"rhappiness"
+			],
+			[
+				"print",
+				"printPack"
+			],
+			[
+				"pri",
+				"printPQ"
+			],
+			[
+				"sr",
+				"sortPack"
+			],
+			[
+				"p",
+				"prob"
+			],
+			[
+				"end",
+				"end_paren"
+			],
+			[
+				"mult",
+				"multXY"
+			],
+			[
+				"e",
+				"end_paren"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"in",
+				"inputArray\tinputArray"
+			],
+			[
+				"solve",
+				"solveUtil"
+			],
+			[
+				"count_s",
+				"count_star_rev"
+			],
+			[
+				"count_clos",
+				"count_closed_rev"
+			],
+			[
+				"count",
+				"count_open_rev"
+			],
+			[
+				"coun",
+				"count_open"
+			],
+			[
+				"cl",
+				"close_pref"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"d",
+				"dp_count"
+			],
+			[
+				"las",
+				"last_bob_i"
+			],
+			[
+				"last",
+				"last_james_i"
+			],
+			[
+				"tak",
+				"taken_by_james"
+			],
+			[
+				"ta",
+				"taken_by_bob"
+			],
+			[
+				"val",
+				"validWaysUtil"
+			],
+			[
+				"unde",
+				"undest_cell_3_3"
+			],
+			[
+				"un",
+				"undest_row_3_3"
+			],
+			[
+				"undes",
+				"undest_cell_3_2"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"ca",
+				"char_count"
+			],
+			[
+				"char",
+				"char_count"
+			],
+			[
+				"colo",
+				"color_i"
+			],
+			[
+				"va",
+				"val_with"
+			],
+			[
+				"wi",
+				"without"
+			],
+			[
+				"w",
+				"without"
+			],
+			[
+				"wit",
+				"with"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"star",
+				"star_count_a"
+			],
+			[
+				"sor",
+				"sortbyStarCount"
+			],
+			[
+				"rev",
+				"rev_c"
+			],
+			[
+				"co",
+				"common"
+			],
+			[
+				"vis",
+				"visited"
+			],
+			[
+				"set",
+				"setIndex"
+			],
+			[
+				"sort",
+				"sortByScore"
+			],
+			[
+				"res",
+				"resp"
+			],
+			[
+				"q",
+				"qno"
+			],
+			[
+				"uptt",
+				"uptt_it"
+			],
+			[
+				"upf",
+				"upf_it"
+			],
+			[
+				"upt",
+				"upt_it"
+			],
+			[
+				"up",
+				"upt_it"
+			],
+			[
+				"nf",
+				"nf_it"
+			],
+			[
+				"se",
+				"setIntersects"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"vi",
+				"vind"
+			],
+			[
+				"check",
+				"checkV"
+			],
+			[
+				"wh",
+				"whitespace"
+			],
+			[
+				"init",
+				"init2dDP\tinit2dDP"
+			],
+			[
+				"rea",
+				"reachable"
+			],
+			[
+				"prit",
+				"printDp"
+			],
+			[
+				"u",
+				"unit_digit"
+			],
+			[
+				"row",
+				"row_dup_count"
+			],
+			[
+				"col",
+				"col_dup_count"
+			],
+			[
+				"nex",
+				"next_col"
+			],
+			[
+				"nx",
+				"next_row"
+			],
+			[
+				"start",
+				"start_act_i"
+			],
+			[
+				"ps",
+				"ps_ch"
+			],
+			[
+				"row_d",
+				"row_dup_count"
+			],
+			[
+				"dis",
+				"dist_count"
+			],
+			[
+				"edge",
+				"edge_dist"
+			],
+			[
+				"new",
+				"new_dist"
+			],
+			[
+				"new_",
+				"new_pt"
+			],
+			[
+				"di",
+				"dijkstra"
+			],
+			[
+				"cur",
+				"cur_pt"
+			],
+			[
+				"cu",
+				"cur_pt"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"M",
+				"MOVES"
+			],
+			[
+				"Cel",
+				"CellDist"
+			],
+			[
+				"Ce",
+				"CellDist"
+			],
+			[
+				"upp",
+				"chain_upper"
+			],
+			[
+				"cah",
+				"chain_lower"
+			],
+			[
+				"chain",
+				"chain_upper"
+			],
+			[
+				"mx",
+				"max_top"
+			],
+			[
+				"cls",
+				"cls_top"
+			],
+			[
+				"gre",
+				"green_top"
+			],
+			[
+				"red",
+				"red_top"
+			],
+			[
+				"md",
+				"modular_pow"
+			],
+			[
+				"mod",
+				"mod_inv"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"mo",
+				"modular_pow"
+			],
+			[
+				"ed",
+				"edge"
+			],
+			[
+				"Tr",
+				"TrieNode"
+			],
+			[
+				"find",
+				"findXorTillN"
+			],
+			[
+				"g",
+				"getA"
+			],
+			[
+				"T",
+				"TrieNode"
+			],
+			[
+				"c",
+				"cur_max_diff"
+			],
+			[
+				"a",
+				"cur_acc"
+			],
+			[
+				"ze",
+				"zeroIndegreeCount"
+			],
+			[
+				"creat",
+				"createGraphRecursive"
+			],
+			[
+				"pop",
+				"popped"
+			],
+			[
+				"crea",
+				"createGraph"
+			],
+			[
+				"cur_",
+				"cur_conn_set"
+			],
+			[
+				"unoder",
+				"unordered_set"
+			],
+			[
+				"do",
+				"do_set_diff"
+			],
+			[
+				"now",
+				"now_ind"
+			],
+			[
+				"min",
+				"min_ab"
+			],
+			[
+				"firs",
+				"first_PX"
+			],
+			[
+				"next_",
+				"next_x"
+			],
+			[
+				"R",
+				"RTX"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"prim",
+				"prime_x"
+			],
+			[
+				"right",
+				"right_top_y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_code/input.txt",
+			"settings":
+			{
+				"buffer_size": 3,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_code/output.txt",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/gdbC++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++CP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++CP.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++CP.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: $1.begin(), $1.end()"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Typedef"
+			],
+			[
+				"Snippet: cpp",
+				"Snippet: cpp"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimegd",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"sublime",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"code fol",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 249.0,
+		"history":
+		[
+			"stop",
+			"print self.window.extract_variables()",
+			"print sublime.expand_variables()",
+			"printsublime.expand_variables()",
+			"print self.window",
+			"self",
+			"self.window",
+			"self.window.extract_variables()",
+			" sublime.expand_variables()",
+			"${file}",
+			"window.extract_variables()",
+			"sublime.expand_variables(file)",
+			"sublime.expand_variables($file)",
+			"sublime.expand_variables()",
+			"$file",
+			"n",
+			"stop",
+			"os.clear()",
+			"cls",
+			"clear",
+			"a",
+			"a = 7",
+			"clear",
+			"print \"1\"",
+			"print \"1\";",
+			"print 1;",
+			"j]"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mindfire/Desktop/Practice"
+	],
+	"file_history":
+	[
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest165/A.cpp",
+		"/home/mindfire/Desktop/Practice/Practice.sublime-project",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest174/D.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest174/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest174/A.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest173/D.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Leetcode-Weekly199/stringCompression2.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest173/E.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonTree-10243-Fire.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonTree-11307-AlternativeAborescence.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonTree-LA3685-PerfectService.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/01Knapsack-562-DividingCoins.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/01Knapsack-LA3619-SumOfDifferentPrimes.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/NonClassical-116-UnidirectionalTSP.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/NonClassical-10337-FlightPlanner.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/NonClassical-11450-WeddingShopping.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/01Knapsack-562-DividingCoins-submission.cpp",
+		"/home/mindfire/Desktop/Practice/_code/output.txt",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest173/A.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest173/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest173/C.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonGraphs-910-TVGame.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonGraphs-10681-TeobaldosTrip.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPwithNonTrivialStates-LA4106-ACORN.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPwithNonTrivialStates-LA4143-FreeParentheses.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonGraphs-4146-ICPCTeamStrategy.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-Alsing/A.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-Alsing/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-Alsing/C.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-Alsing/E.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-Alsing/F.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Kickstart-RoundD/template.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Kickstart-RoundD/A.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Kickstart-RoundD/alienPiano.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Leetcode-30DayChallenge/perfectSquares.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Kickstart-RoundC/perfectSubarray.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Kickstart-RoundC/perfectSubarray2.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Kickstart-RoundC/perfectSubarray3.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest167/E2.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/test.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/C.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/D.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/E.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/G.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Codeforces-Div3#644/F.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest167/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest167/C.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest167/E-submission.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Atcoder-BeginnerContest169/E.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/26.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Leetcode-Weekly191/probability.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/CoinChange-10313-PayThePrice.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/MaximumSum-108-MaximumSum.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/MaximumSum-836-LargestSubmatrix.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/MaximumSum-836-LargestSubmatrix2.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/MaximumSum-10827-MaximumSumOnATorus.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/MaximumSum-507-JillRidesAgain.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DP+Bitmasks-10364-Square.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DP+Bitmasks-10364-Square-other-submission.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DP+Bitmasks-10651-PebbleSolitaire.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DP+Bitmasks-10908-LargestSquare.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DP+Bitmasks-10911-FormingQuizTeams.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DP+Bitmasks-10911-FormingQuizTeams2.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/DPonGraphs-590-AlwaysOnTheRun.cpp",
+		"/home/mindfire/Desktop/Practice/_code/UVa-DP/test.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Hackerearth-Practice/DP+Bitmasking-SherlockAndCoprimeSubset.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest172/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest172/C.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest172/D.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest172/A.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Leetcode-BiWeekly29",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/76.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/78.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/79.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/77.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/80.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/84.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/86.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/87.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/88.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/89.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/91.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/92.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/93.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/94.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/95.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/96.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/67.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/66.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/63.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/97.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/98.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Leetcode-30DayChallenge/kthPermutation.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/100.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/99.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/90.cpp",
+		"/home/mindfire/Desktop/Practice/_code/Leetcode-30DayChallenge/hIndex.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/cppinclude<iostream>",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/85.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/83.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/82.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/81.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/46.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/47.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/48.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/49.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/44.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/51.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/52.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/53.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/54.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/55.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/56.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/57.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/58.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/59.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/60.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/61.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/50.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest170/A.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest170/B.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest170/C.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest170/D.cpp",
+		"/home/mindfire/Desktop/Practice/_code/AtCoder-BeginnerContest170/F.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/62.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/64.cpp",
+		"/home/mindfire/Desktop/Practice/_code/a2oj/65.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"/home/mindfire/Desktop/Practice/_code/",
+			"/home/mindfire/Desktop/Practice/_code/UVa-DP"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"out    cur 6 last 5 k 4",
+			"cur 6 last 5 k 4",
+			"out    cur 6 last 5 k 1",
+			"ans = ",
+			"b(11)",
+			"b{11}",
+			"cout << \"min_c 1 \" << min_c << endl;",
+			"b(2) a(0) b(5) a(0) b(9) c(0) b",
+			"a(0)",
+			"corrected",
+			"\t\t\tif (dp[row][col] + a[row][ncol] < dp[row][ncol]) {\n\t\t\t\tdp[row][ncol] = dp[row][col] + a[row][ncol];\n\t\t\t\tpar[row][ncol] = row;\n\t\t\t}",
+			"dp",
+			";\n",
+			"end 1x",
+			"end 1",
+			"end 1 ",
+			"end 1",
+			")) ",
+			"end 1",
+			"830530681",
+			"9223372036854775807",
+			" 0 ",
+			"\t\n",
+			";\n",
+			");\n\t// deb(mask);\n\t// deb(tea",
+			"er",
+			"IOS",
+			"\t\t\n",
+			"start_ind",
+			"\t\t",
+			"\t\n",
+			"0",
+			"3\n2",
+			"no",
+			"ut.txt\", \"rt\", stdin);\n\tfreopen(\"output.txt\", \"wt\", stdout);\n",
+			";\n",
+			"\t// deb(n);\n\t// for (int i = 0; i < 7; i++)\n\t// \tcout << a[i] << \" \";\n\t// cout << endl;\n",
+			"cin.eof",
+			"stringstream",
+			"}",
+			",\t",
+			"\t\t\n",
+			"#include<iostream>\n#include<bits/stdc++.h>\nusing namespace std;\n\n#define IOS ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);\n#define deb(x)\tcout << #x << \" \" << x << endl;\n\ntypedef long long int ll;\n\nclass CO {\n\tpublic:\n\tint net, open, close;\n\t\n\tCO(int c, int o) {\n\t\topen = o;\n\t\tclose = c;\n\t\tnet = open-close;\n\t}\n\n\tvoid printCO() {\n\t\tcout << \"(\" << close << \",\" << open << \" \" << net << \")\" << endl;\n\t}\n};\n\nclass compCO {\n\tpublic:\n\n\tbool operator() (CO a, CO b) {\n\t\treturn a.close == b.close ? a.open > b.open : a.close < b.close;\n\t}\n};\n\nCO makeCO(string &s) {\n\tint oc = 0, cc = 0;\n\tfor (char x: s) {\n\t\tif (x == '(')\n\t\t\toc++;\n\t\telse\n\t\t\tcc++;\n\t}\n\n\treturn CO(cc, oc);\n}\n\nvoid shorten(string &s) {\n\tstack<char> st;\n\tfor (char x: s) {\n\t\tif (st.empty())\n\t\t\tst.push(x);\n\t\t\n\t\telse {\n\t\t\tif (x == ')' && st.top() == '(')\n\t\t\t\tst.pop();\n\n\t\t\telse\n\t\t\t\tst.push(x);\n\t\t}\t\t\n\t}\n\n\ts = \"\";\n\twhile (!st.empty()) {\n\t\ts = st.top() + s;\n\t\tst.pop();\n\t}\n}\n\nint main() {\n\n\tIOS\n\n\tint n;\n\tcin >> n;\n\n\tstring s[n];\n\n\tfor (int i = 0; i < n; i++)\n\t\tcin >> s[i];\n\n\tint pos = 0, neg = 0;\n\tvector<CO> v;\n\n\tfor (int i = 0; i < n; i++) {\n\t\tshorten(s[i]);\n\n\t\tauto open_found = s[i].find('(');\n\t\tauto close_found = s[i].find(')');\n\n\t\tif (open_found != string::npos && close_found != string::npos) {\n\t\t\tv.push_back(makeCO(s[i]));\n\n\t\t} else if (open_found != string::npos) {\n\t\t\tpos += s[i].size();\n\n\t\t} else {\n\t\t\tneg += s[i].size();\n\t\t}\n\t}\n\n\tsort(v.begin(), v.end(), compCO());\n\n\tint cur_depth = pos;\n\tbool can = pos > 0;\n\n\tif (can) {\n\t\tfor (auto x: v) {\n\t\t\tif (pos < x.close) {\n\t\t\t\tcan = false;\n\t\t\t\tbreak;\n\t\t\t}\n\n\t\t\tpos += x.net;\n\t\t}\n\t}\n\n\tif (can) {\n\t\tif (pos != neg)\n\t\t\tcan = false;\n\t}\n\n\tcout << (can ? \"Yes\" : \"No\") << endl;\n\n\n\treturn 0;\n}",
+			"getline",
+			"new_amount 6",
+			"new_amount 5",
+			"\t}",
+			" (",
+			"INT_MAX",
+			"405",
+			"pos 205",
+			"205",
+			"405",
+			"dp_a",
+			"\t\n",
+			" 8",
+			"\t41",
+			"41\t",
+			" 41",
+			"41",
+			"}\n",
+			"12",
+			" \"",
+			"\t\n",
+			"int n",
+			"index",
+			"\t\t\n",
+			";\n",
+			"i",
+			"())",
+			" 0",
+			"4197040",
+			"\t\n",
+			"89",
+			"i 89",
+			"i.first 89",
+			"77",
+			"new_dist 1360",
+			"i 89",
+			"89",
+			"65",
+			"deb",
+			"long long int",
+			"deb",
+			"printMovesFormatted",
+			"\t\t\n",
+			"FATOil",
+			"\t\n",
+			"x2",
+			"2 2",
+			"98",
+			"job",
+			"b[",
+			"a[",
+			"cars",
+			"10",
+			"1000000",
+			"now 93",
+			"invalidate 88",
+			"invalidate 29",
+			"83 ",
+			"83",
+			".at(",
+			"sortDoubly",
+			"cout",
+			" (int i = 1; i < M; i++) {\n\t// \tp = (p << 1)% M;\n\t// \tcout << p << endl;\n\t// }\n",
+			"100",
+			"100 X 011",
+			"100",
+			"100 X 11",
+			"m, n",
+			"step",
+			"1",
+			": 1",
+			"1",
+			"cout",
+			"rest",
+			"'0'",
+			", sortByPair",
+			"groupAnagrams",
+			"1430125489",
+			"2147951716",
+			"-2147483648",
+			"-1",
+			" 72",
+			"72",
+			"200",
+			")2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ways",
+			"LONG_MAX",
+			"// deb",
+			"int",
+			"// deb",
+			"end[",
+			"start[",
+			"car",
+			"1000000",
+			"10",
+			"[",
+			"// cout",
+			"row_size, col_size",
+			"// cout",
+			"toSearch",
+			"'a'",
+			"",
+			"//cout",
+			"cout",
+			"//cout",
+			"BigBigInteger",
+			"//cout",
+			"cout",
+			"//cout"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_code/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "_code/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.68837507002,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 131.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"output.xdebug":
+	{
+		"height": 274.0
+	},
+	"pinned_build_system": "Packages/User/c++CP.sublime-build",
+	"project": "Practice.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"AbstractAnnotationLoaderTest"
+			]
+		],
+		"width": 820.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

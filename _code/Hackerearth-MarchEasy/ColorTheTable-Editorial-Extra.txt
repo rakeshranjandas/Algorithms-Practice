@@ -1,0 +1,11 @@
+
+
+Faced problem in Fast Exponentiation.
+
+
+2^(m*n)
+
+The (m*n) part overflowed. Thus the exp was wrong.
+
+
+Solved by  ((2^m)^n)

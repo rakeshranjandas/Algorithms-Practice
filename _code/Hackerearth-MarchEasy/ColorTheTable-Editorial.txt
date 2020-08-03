@@ -1,0 +1,65 @@
+		[1][2][3][4]
+
+		(3)(3)(3)(3)
+		 _  _  _  _ 
+[1]	(3)	|_||_||_||_|
+[2]	(3)	|_||_||_||_|
+[3]	(3)	|_||_||_||_|
+[4]	(3)	|_||_||_||_|
+[5]	(3)	|_||_||_||_|
+
+
+
+	First, colour the top edges of squares present at the top level i.e row 1. Squares[1,1] to [1,4]
+		This can be done in 3^(n) ways. Where n = #columns
+
+	Then, colour the left edges of the squares present on the left i.e col 1. Squares[1,1] to [5,1]
+		This can be done in 3^(m) ways. Where m = #rows
+
+
+	Then we plan to colour rest of the edges, starting from the [1,1]
+
+	2 cases-
+
+	Case 1: If the colors chosen are same
+
+			Red
+			 _
+		Red	|_| ?
+
+			 ?
+
+		Then we have to choose "?" from {Black, Blue}. So 2 choices.
+
+
+	Case 2: If the colors chosen are different
+
+			Red
+			 _
+	   Blue |_| ?
+
+			 ?
+
+		Then from "?" we have to choose which edge has to be Red. The other will
+		automatically be blue. 
+		So 2 choices to choose which one should be Red.{right_edge, bottom_edge}.
+
+
+
+	For painting all the top and left edges, we can do in 3^(m+n) ways.
+
+	Remaining edges (bottom and right edge) of [1,1] can be painted in 2 ways.
+
+	This makes 2 sides painted for [1,2]. This is reduced to above cases as we need to paint just
+	2 sides of [1,2]. This can be done in 2 ways.
+
+	....
+	If we do this in a sequential fashion, then we only have to paint 2 edges of all the cells.
+	This will arise in one of the 2 cases. Since both cases give 2 choices, we can paint all the
+	m*n cells by 2^(m*n) ways.
+
+
+
+	Total number of ways 
+	= (Paint top and left) * (Paint rest of edges of all squares)
+	= 3^(m+n)	*	2^(m*n)
