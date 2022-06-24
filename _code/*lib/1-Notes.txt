@@ -1,0 +1,32 @@
+
+
+/* To convert [] to at() */
+Search regex	-	 \[(.*?)\]
+Replace with 	-	.at($1)
+
+
+
+/* For more debugging options */
+Tools -> Build System -> c++CP-DEBUG
+
+
+
+
+
+
+
+
+
+
+/*
+ * don't be lazy in thinking ya 3l2
+ * Think twice, code once
+ * Think of different approaches to tackle a problem: write them down.
+ * Think of different views of the problem. don't look from only one side.
+ * don't get stuck in one approach.
+ * common mistakes: over_flow
+ *                  - out_of_bound index
+ *                  -infinite loop
+ *                  -corner cases
+ *                  -double counting.
+ */
